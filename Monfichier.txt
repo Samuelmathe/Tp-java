@@ -1,0 +1,5 @@
+Bonjour
+Voici le texte en ecrire et lire ....
+C'est le tp pour ecrire dans le fichier 
+Avec BufferdWriter et FileWriter
+mais aussi lire avec BufferedReader
